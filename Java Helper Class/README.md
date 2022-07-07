@@ -37,3 +37,10 @@ class HelloWorld {
     }
 }
 ```
+
+### Following are some sample patterns that you can try
+![sample patterns](https://user-images.githubusercontent.com/46966575/177694878-152190f4-4637-44ba-affb-0f39fcd87647.png)
+
+### Following are the Date formats that you can try 
+![date format](https://user-images.githubusercontent.com/46966575/177694921-e85c47d3-4527-4f44-9466-936eda44700e.png)
+
