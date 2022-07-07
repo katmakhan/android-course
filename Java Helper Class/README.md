@@ -44,3 +44,8 @@ class HelloWorld {
 ### Following are the Date formats that you can try 
 ![date format](https://user-images.githubusercontent.com/46966575/177694921-e85c47d3-4527-4f44-9466-936eda44700e.png)
 
+### You can try the following link to check all the formats available
+```
+https://docs.oracle.com/javase/tutorial/i18n/format/simpleDateFormat.html
+```
+
